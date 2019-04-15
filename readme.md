@@ -40,4 +40,4 @@ To get music that sounds pleasing, remember that you may have to fiddle around w
 
 ## Acknowledgements
 
-This project was inspired by and conceptually based on [dshieble's](https://github.com/dshieble/Music_RNN_RBM) neural network music generator.
+This project was inspired by and conceptually based on [dshieble's](https://github.com/dshieble/Music_RNN_RBM) neural network music generator which was, in turn, based on [Boulanger-Lewandowski et al. (2012)](https://arxiv.org/abs/1206.6392)
